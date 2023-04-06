@@ -1,1 +1,1 @@
-# feature-selection-texture-brick-images-classification
+# Feature Selection Texture Brick Images Classification
